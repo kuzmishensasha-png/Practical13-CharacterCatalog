@@ -1,0 +1,11 @@
+D:\Оптіма\C#\Практична 13\Practical1\Core\Characters\bin\Debug\net10.0\GameSystem.deps.json
+D:\Оптіма\C#\Практична 13\Practical1\Core\Characters\bin\Debug\net10.0\GameSystem.dll
+D:\Оптіма\C#\Практична 13\Practical1\Core\Characters\bin\Debug\net10.0\GameSystem.pdb
+D:\Оптіма\C#\Практична 13\Practical1\Core\Characters\obj\Debug\net10.0\GameSystem.GeneratedMSBuildEditorConfig.editorconfig
+D:\Оптіма\C#\Практична 13\Practical1\Core\Characters\obj\Debug\net10.0\GameSystem.AssemblyInfoInputs.cache
+D:\Оптіма\C#\Практична 13\Practical1\Core\Characters\obj\Debug\net10.0\GameSystem.AssemblyInfo.cs
+D:\Оптіма\C#\Практична 13\Practical1\Core\Characters\obj\Debug\net10.0\GameSystem.csproj.CoreCompileInputs.cache
+D:\Оптіма\C#\Практична 13\Practical1\Core\Characters\obj\Debug\net10.0\GameSystem.dll
+D:\Оптіма\C#\Практична 13\Practical1\Core\Characters\obj\Debug\net10.0\refint\GameSystem.dll
+D:\Оптіма\C#\Практична 13\Practical1\Core\Characters\obj\Debug\net10.0\GameSystem.pdb
+D:\Оптіма\C#\Практична 13\Practical1\Core\Characters\obj\Debug\net10.0\ref\GameSystem.dll

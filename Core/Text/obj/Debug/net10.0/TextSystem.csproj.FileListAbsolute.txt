@@ -1,0 +1,11 @@
+D:\Оптіма\C#\Практична 13\Practical1\Core\Text\bin\Debug\net10.0\TextSystem.deps.json
+D:\Оптіма\C#\Практична 13\Practical1\Core\Text\bin\Debug\net10.0\TextSystem.dll
+D:\Оптіма\C#\Практична 13\Practical1\Core\Text\bin\Debug\net10.0\TextSystem.pdb
+D:\Оптіма\C#\Практична 13\Practical1\Core\Text\obj\Debug\net10.0\TextSystem.GeneratedMSBuildEditorConfig.editorconfig
+D:\Оптіма\C#\Практична 13\Practical1\Core\Text\obj\Debug\net10.0\TextSystem.AssemblyInfoInputs.cache
+D:\Оптіма\C#\Практична 13\Practical1\Core\Text\obj\Debug\net10.0\TextSystem.AssemblyInfo.cs
+D:\Оптіма\C#\Практична 13\Practical1\Core\Text\obj\Debug\net10.0\TextSystem.csproj.CoreCompileInputs.cache
+D:\Оптіма\C#\Практична 13\Practical1\Core\Text\obj\Debug\net10.0\TextSystem.dll
+D:\Оптіма\C#\Практична 13\Practical1\Core\Text\obj\Debug\net10.0\refint\TextSystem.dll
+D:\Оптіма\C#\Практична 13\Practical1\Core\Text\obj\Debug\net10.0\TextSystem.pdb
+D:\Оптіма\C#\Практична 13\Practical1\Core\Text\obj\Debug\net10.0\ref\TextSystem.dll
